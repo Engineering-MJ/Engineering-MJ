@@ -1,16 +1,45 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Engineering-MJ/Engineering-MJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Osman+Bin+Nasir;CSE+Student+%7C+Full-Stack+Developer;Building+Cool+Tech+🚀" />
 
-Here are some ideas to get you started:
+<img src="https://komarev.com/ghpvc/?username=osman-bin-nasir&style=for-the-badge&color=blue"/>
+<img src="https://img.shields.io/github/followers/osman-bin-nasir?style=for-the-badge&color=blue"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<img align="right" alt="Coding" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+### 🚀 About Me
+- 🎓 **Computer Science Engineering Student**
+- 💻 Building **Full-Stack Projects & Developer Tools**
+- 🧠 Love solving **DSA & Rubik's Cube**
+- 🌐 Portfolio:  
+  **https://osman-bin-nasir.github.io/Portfolio/**
+
+---
+
+### 🛠 Tech Stack
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osman-bin-nasir&layout=compact&theme=react&hide_border=true"/>
+</div>
+
+---
+
+### 🤝 Connect
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)](https://osman-bin-nasir.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/osman-bin-nasir)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:osmanbinnasir18@gmail.com)
+
+</div>
