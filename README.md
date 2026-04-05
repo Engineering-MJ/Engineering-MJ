@@ -1,25 +1,29 @@
 <div align="center">
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Osman+Bin+Nasir;CSE+Student+%7C+Full-Stack+Developer;Building+Cool+Tech+🚀" />
-
 <img src="https://komarev.com/ghpvc/?username=osman-bin-nasir&style=for-the-badge&color=blue"/>
 <img src="https://img.shields.io/github/followers/osman-bin-nasir?style=for-the-badge&color=blue"/>
-
 </div>
 
 ---
 
 ### 🚀 About Me
 
-<p align="center">
-  <img src="./cube1.gif" width="170" style="max-width: 100%; height: auto;" />
-</p>
+<table>
+<tr>
+<td valign="top" width="75%">
 
 - 🎓 **Computer Science Engineering Student**
 - 💻 Building **Full-Stack Projects & Developer Tools**
 - 🧠 Love solving **DSA & Rubik's Cube**
 - 🌐 Portfolio:  
   **https://osman-bin-nasir.github.io/Portfolio/**
+
+</td>
+<td valign="top" align="right" width="25%">
+  <img src="./cube1.gif" width="170" style="max-width: 100%; height: auto;" />
+</td>
+</tr>
+</table>
 
 ---
 
