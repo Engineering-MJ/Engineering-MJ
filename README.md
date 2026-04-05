@@ -7,9 +7,14 @@
 
 </div>
 
-<img align="right" alt="Cube Animation" width="260" src="./cube1.gif" />
+---
 
 ### 🚀 About Me
+
+<p align="center">
+  <img src="./cube1.gif" width="170" style="max-width: 100%; height: auto;" />
+</p>
+
 - 🎓 **Computer Science Engineering Student**
 - 💻 Building **Full-Stack Projects & Developer Tools**
 - 🧠 Love solving **DSA & Rubik's Cube**
@@ -19,6 +24,9 @@
 ---
 
 ### 🛠 Tech Stack
+
+<div align="center">
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -26,16 +34,12 @@
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-<div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osman-bin-nasir&layout=compact&theme=react&hide_border=true"/>
 </div>
 
 ---
 
 ### 🤝 Connect
+
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)](https://osman-bin-nasir.github.io/Portfolio/)
