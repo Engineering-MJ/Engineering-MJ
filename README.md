@@ -7,7 +7,7 @@
 
 </div>
 
-<img align="right" alt="Coding" width="260" src="https://i.pinimg.com/originals/61/e6/31/61e6316d104849a0287894b2b5b05763.gif" />
+<img align="right" alt="Cube Animation" width="260" src="./cube1.gif" />
 
 ### 🚀 About Me
 - 🎓 **Computer Science Engineering Student**
