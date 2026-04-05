@@ -7,7 +7,7 @@
 
 </div>
 
-<img align="right" alt="Coding" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Coding" width="260" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTV5OW84ODFjN2JtOTA1MnNuMG9ld284NGRkcG1meXBzZnIxM2x3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kFuavIYvRQZGg/giphy.gif" />
 
 ### 🚀 About Me
 - 🎓 **Computer Science Engineering Student**
