@@ -21,6 +21,7 @@
 </td>
 <td valign="top" align="right" width="25%">
   <img src="./cube1.gif" width="170" style="max-width: 100%; height: auto;" />
+  <img src="./ezgif.com-video-to-gif-converter.gif" width="170" style="max-width: 100%; height: auto;" />
 </td>
 </tr>
 </table>
